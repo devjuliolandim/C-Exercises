@@ -1,0 +1,31 @@
+1) Irá compilar corretamente
+
+	A saída será a seguinte:
+	11 20
+	12 20
+	11 20
+	12 20
+	11 20
+
+
+
+
+2)	
+
+	O valor de "(*pti)--" é: 10
+
+	O valor de "*&i" é: 9
+
+	O valor de "++(*&*pti)" é: Não determinado
+
+
+
+
+3)
+
+	Letra "c"
+
+
+
+
+4) 	
